@@ -10,7 +10,7 @@ import { FaRegListAlt, FaHashtag, FaBell } from 'react-icons/fa'
 import { CgMoreO } from 'react-icons/cg'
 import { VscTwitter } from 'react-icons/vsc'
 import Modal from 'react-modal'
-import { customStyles } from '../lib/constant'
+import { customStyles } from '../lib/constants'
 import ProfileImageMinter from './profile/mintingModal/ProfileImageMinter'
 import {
   BsBookmark,
