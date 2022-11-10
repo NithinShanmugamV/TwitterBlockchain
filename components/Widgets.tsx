@@ -53,6 +53,7 @@ function Widgets() {
         ))}
         <div className={style.showMore}>Show more</div>
       </div>
+      {/*
       <div className={style.section}>
         <div className={style.title}>Who to follow</div>
         {whoToFollow.map((item, index) => (
@@ -72,7 +73,7 @@ function Widgets() {
           </div>
         ))}
         <div className={style.showMore}>Show more</div>
-      </div>
+      </div>*/}
     </div>
   )
 }
